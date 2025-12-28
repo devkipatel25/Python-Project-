@@ -1,4 +1,4 @@
-# project1.py
+# Python Project
 Hello everyone,
 
 This is my first Python project — a Rock–Paper–Scissors game.
